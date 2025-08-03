@@ -1,8 +1,8 @@
----
+tecno spark 8c---
 manufacturer:
     - tecno
-
----
+me chalu kro
+--5year-
 
 ## Power Saving Management
 
